@@ -15,8 +15,8 @@ file_indent=0
 #...............................................................
 #Email sending Function
 def send_email():
-    gmail_user = 'suhasrk233@gmail.com'
-    gmail_password = 'Chodimagakedar9110!'
+    gmail_user = ''
+    gmail_password = ''
 
     sent_from = gmail_user
     to = 'hacktolearn233@gmail.com'
